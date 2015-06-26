@@ -1,3 +1,3 @@
 # Era-Ares
 
-A space areial fifghting game. 
+A space areial fighting game. 
